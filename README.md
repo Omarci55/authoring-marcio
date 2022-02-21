@@ -14,3 +14,11 @@
 
 ## Task 5
 - [ ] Tables
+
+| Task        | Hash     | Branch       |
+|-------------|----------|--------------|
+| Ext Link    |          |              |
+| Int Link    |          |              |
+| Images      |          |              |
+| Emoji       |          |              |
+| Table       |          |              |
