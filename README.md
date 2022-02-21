@@ -2,4 +2,8 @@
 
 ## Tasks
 
-- [ ] External Link 
+- [ ] [External Link](https://help.github.com/en/) 
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
+- [ ] Tables
