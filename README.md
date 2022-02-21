@@ -3,7 +3,7 @@
 ## Tasks
 
 - [ ] [External Link](https://help.github.com/en/) 
-- [ ] Internal Link
+- [ ] [Internal Link](./images/)
 - [ ] Images
 - [ ] Emojis
 - [ ] Tables
