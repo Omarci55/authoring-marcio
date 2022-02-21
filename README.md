@@ -4,6 +4,6 @@
 
 - [ ] [External Link](https://help.github.com/en/) 
 - [ ] [Internal Link](./images/)
-- [ ] Images
+- [ ] [Images](./images/pic1.png)
 - [ ] Emojis
 - [ ] Tables
