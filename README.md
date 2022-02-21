@@ -1,28 +1,24 @@
 # Github Flavoured Markdown
 
 
-## Task 1
-- [x] [External Link](https://help.github.com/en/) 
-
-
-
-## Task 2
-- [x] [Internal Link](./images/)
-
-
-
-## Task 3
+## Tasks
+- [x] External Link 
+- [x] Internal Link 
 - [x] [Images](./images/pic1.png)
-
-
-
-## Task 4
-- [x] Emojis :bowtie:
-
-
-
-## Task 5
+- [x] Emojis 
 - [x] Tables
+
+
+## External Link
+[Need help?](https://help.github.com/en/) 
+
+## Image
+[Check my picture out](./images/)
+
+##  Emoji 
+:bowtie:
+
+## Table 
 
 | Task        | Hash     | Branch       |
 |-------------|----------|--------------|
