@@ -5,5 +5,5 @@
 - [ ] [External Link](https://help.github.com/en/) 
 - [ ] [Internal Link](./images/)
 - [ ] [Images](./images/pic1.png)
-- [ ] Emojis
+- [ ] Emojis :bowtie:
 - [ ] Tables
